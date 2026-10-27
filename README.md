@@ -1,4 +1,5 @@
-## Hi there 👋
+## aaronYTDev
+I build small tools for Linux, poke at Fire TV homebrew, and write it all down at my [website](https://aaronytdevs-corner.netlify.app).
 
 <!--
 **AaronYTDev/AaronYTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
