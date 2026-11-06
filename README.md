@@ -1,6 +1,6 @@
 ## aaronYTDev
 I build small tools for Linux, poke at Fire TV homebrew, and write it all down at my [website](https://aaronytdevs-corner.netlify.app).
-
+Alternatively, you can call it spaghetti code with open sauce. Because how else would use use the sauce?
 <!--
 **AaronYTDev/AaronYTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
